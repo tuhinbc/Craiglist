@@ -1,0 +1,8 @@
+I:\Laboratory\c# Lab\craiglist\craiglist\bin\Release\craiglist.exe
+I:\Laboratory\c# Lab\craiglist\craiglist\bin\Release\craiglist.pdb
+I:\Laboratory\c# Lab\craiglist\craiglist\obj\x86\Release\craiglist.Form1.resources
+I:\Laboratory\c# Lab\craiglist\craiglist\obj\x86\Release\craiglist.Properties.Resources.resources
+I:\Laboratory\c# Lab\craiglist\craiglist\obj\x86\Release\craiglist.csproj.GenerateResource.Cache
+I:\Laboratory\c# Lab\craiglist\craiglist\obj\x86\Release\craiglist.exe
+I:\Laboratory\c# Lab\craiglist\craiglist\obj\x86\Release\craiglist.pdb
+I:\Laboratory\c# Lab\craiglist\craiglist\obj\x86\Release\craiglist.csprojResolveAssemblyReference.cache

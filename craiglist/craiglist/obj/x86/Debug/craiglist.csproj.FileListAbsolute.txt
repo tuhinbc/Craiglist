@@ -1,0 +1,7 @@
+I:\Laboratory\c# Lab\craiglist\craiglist\bin\Debug\craiglist.exe
+I:\Laboratory\c# Lab\craiglist\craiglist\bin\Debug\craiglist.pdb
+I:\Laboratory\c# Lab\craiglist\craiglist\obj\x86\Debug\craiglist.Form1.resources
+I:\Laboratory\c# Lab\craiglist\craiglist\obj\x86\Debug\craiglist.Properties.Resources.resources
+I:\Laboratory\c# Lab\craiglist\craiglist\obj\x86\Debug\craiglist.csproj.GenerateResource.Cache
+I:\Laboratory\c# Lab\craiglist\craiglist\obj\x86\Debug\craiglist.exe
+I:\Laboratory\c# Lab\craiglist\craiglist\obj\x86\Debug\craiglist.pdb

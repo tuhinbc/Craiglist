@@ -1,0 +1,1 @@
+%WINDIR%\Microsoft.NET\Framework\v2.0.50727\csc.exe /out:craiglist.exe Form1.cs Program.cs Form1.Designer.cs 
